@@ -6,11 +6,10 @@ html {
       background-color:black;
       font-family: Verdana;
       color: white;
+      text-align: center;
+
   }
-  
-  header, section{
-    text-align: center;
-  }
+
  header h1{
       
       font-weight: normal;
@@ -27,7 +26,7 @@ section, footer p{
   color: gray; 
  }
 
-a{
+.link-style{
       color: aquamarine;
       font-size: 16px;
   }
